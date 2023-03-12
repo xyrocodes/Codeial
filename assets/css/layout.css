@@ -2,5 +2,4 @@ body {
   margin: 0;
   /* text-align: center; */ }
   body #layout-main {
-    height: 772;
-  }
+    height: 100%; }
